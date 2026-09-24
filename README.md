@@ -383,3 +383,19 @@ This project is intended for educational, research, and learning purposes.
 * Streamlit
 
 for providing the tools and technologies used in this project.
+
+
+<img width="1915" height="927" alt="Screenshot 2026-09-24 142147" src="https://github.com/user-attachments/assets/d32720f3-6459-42a5-b16d-291a54f60654" />
+
+<img width="1535" height="715" alt="Screenshot 2026-09-24 142912" src="https://github.com/user-attachments/assets/283016a7-c143-4ce4-8f54-23964e5c59b5" />
+
+<img width="1561" height="900" alt="Screenshot 2026-09-24 142840" src="https://github.com/user-attachments/assets/af92f718-9f11-463b-a985-fb5f88de5d9f" />
+
+<img width="1486" height="931" alt="Screenshot 2026-09-24 142851" src="https://github.com/user-attachments/assets/d340ecf5-c8c2-4848-a1f0-d071e74b5b55" />
+
+<img width="1535" height="715" alt="Screenshot 2026-09-24 142912" src="https://github.com/user-attachments/assets/e86bbbf4-536f-49e8-8c3f-76078739a194" />
+
+
+
+
+
